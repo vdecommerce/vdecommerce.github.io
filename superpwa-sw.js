@@ -6,8 +6,8 @@
  */
  
 const cacheName = 'vdecommerce.nl.dev.cc-superpwa-2.0.2';
-const startPage = 'https://vdecommerce.nl.dev.cc';
-const offlinePage = 'https://vdecommerce.nl.dev.cc';
+const startPage = 'https://vdecommerce.nl';
+const offlinePage = 'https://vdecommerce.nl'';
 const filesToCache = [startPage, offlinePage];
 const neverCacheUrls = [/\/wp-admin/,/\/wp-login/,/preview=true/];
 
