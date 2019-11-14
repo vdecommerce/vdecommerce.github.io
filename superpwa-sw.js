@@ -5,7 +5,7 @@
  * To learn more and add one to your website, visit - https://superpwa.com
  */
  
-const cacheName = 'vdecommerce.nl.dev.cc-superpwa-2.0.2';
+const cacheName = 'vdecommerce.nl-superpwa-2.0.2';
 const startPage = 'https://vdecommerce.nl';
 const offlinePage = 'https://vdecommerce.nl';
 const filesToCache = [startPage, offlinePage];
